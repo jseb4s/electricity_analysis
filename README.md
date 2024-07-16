@@ -1,6 +1,6 @@
 # Proyecto de Análisis del Consumo de Electricidad de una Vivienda
 ## Desarrollado por Juan Sebastian Moncada Aguilar
-* Todo el proceso fue desarrollado en Kaggle (TPU VM v3-8)
+*Todo el proceso fue desarrollado en Kaggle (TPU VM v3-8)
 
 Este proyecto tiene como objetivo analizar el consumo de electricidad de una vivienda utilizando registros con una periodicidad de un minuto. A lo largo del proyecto, se realizaron diversas etapas de análisis y modelado, culminando en la implementación de un sencillo modelo ARIMA para pronosticar los niveles de consumo para los siguientes 60 minutos.
 
