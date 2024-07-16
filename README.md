@@ -4,6 +4,11 @@
 
 Este proyecto tiene como objetivo analizar el consumo de electricidad de una vivienda utilizando registros con una periodicidad de un minuto. A lo largo del proyecto, se realizaron diversas etapas de análisis y modelado, culminando en la implementación de un sencillo modelo ARIMA para pronosticar los niveles de consumo para los siguientes 60 minutos.
 
+## Insumos
+- Dataset: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+- Archivo requirements.txt
+- Notebook electricity.ipynb
+
 ## Variables del Dataset
 
 - `Global_active_power` (float): Potencia activa global en kilovatios (kW).
